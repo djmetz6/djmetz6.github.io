@@ -1,0 +1,71 @@
+*{
+  box-sizing:border-box;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Teko', sans-serif;
+  font-weight: bold;
+}
+
+.Africa { 
+  background-image: url("../images/Africa.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Asia { 
+  background-image: url("../images/Asia.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Australia { 
+  background-image: url("../images/Australia.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Europe { 
+  background-image: url("../images/Europe.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.NorthAmerica { 
+  background-image: url("../images/NorthAmerica.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.SouthAmerica { 
+  background-image: url("../images/SouthAmerica.jpg");
+  height: -webkit-fill-available; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+{
+  cursor: url('../images/airplane.png'), auto; 
+}
