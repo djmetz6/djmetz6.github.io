@@ -48,20 +48,26 @@ h1 {
 h1 a {
   text-decoration: none;
   letter-spacing: 2px;
+  color: white;
 }
 
 h2 {
   font-weight: bold;
   margin: 0;
   padding: 0;
+  letter-spacing: 2px;
 }
 
 h2 a {
   text-decoration: none;
 }
 
+a:hover {
+  color: blue;
+}
+
 a:visited {
-  color: inherit;
+  color: white;
 }
 
 nav {
